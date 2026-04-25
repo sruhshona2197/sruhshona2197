@@ -56,6 +56,9 @@ Pinterest email
 HTML5 Python
 
 📊 GitHub Stats:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 
 
 
